@@ -1,0 +1,28 @@
+[
+  {
+    "title": "标题",
+    "name": "名称",
+    "extendGroup":{
+      "enableExpand": true
+    },
+    "children": [
+      {
+        "viewType": "",
+        "extendGroup":{
+          "enableExpand": false,
+          "children": [
+            {
+
+            },
+            {
+
+            }
+          ]
+        }
+      },
+      {
+
+      }
+    ]
+  }
+]
